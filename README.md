@@ -1,4 +1,4 @@
-# Project: VeriDoc-RAG (Local Knowledge Retrieval)
+# Project: Linear-Doc-RAG (Local Knowledge Retrieval)
 
 ## Overview
 This project implements a high-performance, **local-first Question-Answering system** built on a **Retrieval-Augmented Generation (RAG)** architecture. Unlike standard AI tools that rely on cloud APIs, this pipeline processes PDF documents entirely on your local machine or private environment.
